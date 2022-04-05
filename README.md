@@ -16,8 +16,13 @@ Divirta-se
 ## Docker Pull Command
 ```shell
 docker pull rvgoncalves/codeeducation
-
 ```
+
+## Execution
+```shell
+docker run rvgoncalves/codeeducation
+```
+
 ## Example output
 ```shell
 $ docker run --rm rvgoncalves/codeeducation
